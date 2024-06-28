@@ -3,8 +3,8 @@
 This project lists the models build to perform the following using Recurrant Neural Network models
 
 1. Text Generation from the language style learned from existing poem and generated using |Sequence to sequence model
-2. Translation from French to English Using Sequence to Sequence Model
-3. transalation from Sequence to Sequence model with Attenion
+2. Translation from French to English using Sequence to Sequence Model
+3. Translation from French to English using Sequence to Sequence model with Attenion
 
    
 
