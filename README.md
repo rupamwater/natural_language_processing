@@ -4,9 +4,19 @@ This project lists the models build to perform the following using Recurrant Neu
 
 1. Text Generation from the language style learned from existing poem and generated using |Sequence to sequence model
 2. Translation from French to English using Sequence to Sequence Model
-3. Translation from French to English using Sequence to Sequence model with Attenion
+3. Translation from French to English using Sequence to Sequence model with Attention
 
-   
+
+### Model Components
+
+These models were build using keras library in tensorflow with the combination of Embedding layer, LSTM layer and dense layers. The description of respective models are as follows,
+
+1. Text Generation
+2. Translation
+3. Translation using attention model
+
+
+ 
 
 
 
