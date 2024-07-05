@@ -24,9 +24,22 @@ These models were build using keras library in tensorflow with the combination o
 
 To setup the environment create a project directory and run the following command.
 
-   conda env create -f nlp_course_env.yml
+ Create conda environment
+    conda create --name nlp
 
-NOTE: The nlp_course_env.yml is included in the project repository
+ Activate the created environment
+   conda activate nlp
+
+ Install Python
+   conda install python==3.7
+
+Install tensorflow, jupyter , scikit-learn, matplotlib, glob
+    pip install tensorflow==2.9.3
+    pip install jupyter
+    pip install scikit-learn
+    pip install matplotlib==3.5.3
+
+
 
 
    
